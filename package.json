@@ -1,11 +1,11 @@
 {
   "name": "mongoose-q",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "kriskowal's Q support for mongoose",
   "author": "Dongsu Jang <iolothebard@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/iolo/mongoose-q.git"
+    "url": "git://git@github.com/klarsys/mongoose-q.git"
   },
   "license": "MIT",
   "engines": {
