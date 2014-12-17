@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "q": "^1.0.0",
-    "mongoose": "^3.8.3"
+    "mongoose": "~3.8.3"
   },
   "devDependencies": {
     "mocha": "latest",
